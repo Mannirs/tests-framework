@@ -6,3 +6,5 @@
         "pipfile-spec": 6,
         },
         "sources": [
+            {
+                "name": "pypi",
