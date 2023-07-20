@@ -8,3 +8,4 @@
         "sources": [
             {
                 "name": "pypi",
+                "url": "https://pypi.org/simple",
