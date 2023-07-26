@@ -17,3 +17,5 @@
         "apirequests": {
  "hashes": [
                 "sha256:c5e8e41dd26c247c52146a0d071349f207e5d41ed3320917c4c792e1f903f816"
+            ],
+            "index": "pypi",
