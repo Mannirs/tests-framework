@@ -44,3 +44,4 @@
             "markers": "python_version >= '3.6'",
             "version": "==22.2.0"
         },
+        "bcrypt": {
