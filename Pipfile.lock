@@ -45,3 +45,4 @@
             "version": "==22.2.0"
         },
         "bcrypt": {
+            "hashes": [
