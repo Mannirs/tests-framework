@@ -69,3 +69,4 @@
                 "sha256:fbdaec13c5105f0c4e5c52614d04f0bca5f5af007910daa8b6b12095edaa67b3"
             ],
             "markers": "python_version >= '3.6'",
+            "version": "==4.0.1"
