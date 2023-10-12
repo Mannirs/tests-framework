@@ -84,3 +84,4 @@
                 "sha256:1f576f5b6972e2b40329f5f1a3ea15335ab695822b63f7a518d5ccbe7ee74029",
                 "sha256:be144784779fefff9cda5856cd92e61197a0fc0b002778412d0e8e6d88985c24"
             ],
+            "version": "==1.2.7"
